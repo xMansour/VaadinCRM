@@ -38,10 +38,10 @@ Once the JAR file is built, you can run it using
 6. [Vaadin](https://vaadin.com/)
 
 ## Project Features
-1. Login/Logout using Spring Security.
-    ![Login with Spring Security](screenshots/Vaadin_login.png)
+1. Login/Logout using Spring Security. You can use root/root for username and password or Admin/root.
+   ![Login with Spring Security](screenshots/Vaadin_login.png)
 2. CRUD Operations
-    ![CRUD Operations](screenshots/Vaading_crud.png)
+   ![CRUD Operations](screenshots/Vaading_crud.png)
 
 ## Deploying using Docker
 
